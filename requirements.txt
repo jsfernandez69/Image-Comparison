@@ -1,4 +1,6 @@
 streamlit
-pillow
 numpy
+Pillow
+scipy
 scikit-image
+matplotlib
